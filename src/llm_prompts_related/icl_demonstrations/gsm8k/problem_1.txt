@@ -1,0 +1,6 @@
+sent-1: Tina makes $18.00 an hour.
+sent-2: If she works more than 8 hours per shift,
+sent-3: she is eligible for overtime,
+sent-4: which is paid by your hourly wage + 1/2 your hourly wage.
+sent-5: If she works 10 hours every day for 5 days,
+sent-6: how much money does she make?

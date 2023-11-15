@@ -1,0 +1,12 @@
+Let's break down the problem:
+
+1. Cost for the venue: $10,000.
+2. Cost per guest: $500.
+3. John wants 50 guests, so the cost for his guests would be \(50 \times 500\).
+4. John's wife wants 60% more guests than John. This would be \(0.6 \times 50 = 30\) more guests, so she wants a total of \(50 + 30 = 80\) guests. The cost for her guests would be \(80 \times 500\).
+
+The total wedding cost if John's wife gets her way is the sum of the venue cost and the cost for all 80 guests.
+
+Given the problem:
+
+Total wedding cost = \(10,000 + 500 \times 80\)

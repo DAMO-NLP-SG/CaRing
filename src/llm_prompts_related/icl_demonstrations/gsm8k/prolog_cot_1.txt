@@ -1,0 +1,16 @@
+Let's break down the problem step by step.
+
+From the given information:
+
+Tina's hourly wage = $18.00
+Overtime is applicable after 8 hours.
+Overtime wage = hourly wage + 0.5 * hourly wage = 1.5 * hourly wage
+She works 10 hours every day for 5 days, which means:
+8 hours of regular wage per day and
+2 hours of overtime wage per day for 5 days.
+Let's compute her earnings:
+
+Regular earnings per day = 8 hours * hourly wage
+Overtime earnings per day = 2 hours * overtime wage
+Total earnings per day = Regular earnings + Overtime earnings
+Total earnings for 5 days = 5 * Total earnings per day

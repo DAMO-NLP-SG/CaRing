@@ -1,0 +1,28 @@
+Triples:
+triple-1: Anne is kind.
+triple-2: Charlie is not big.
+triple-3: Charlie is not green.
+triple-4: Charlie is white.
+triple-5: Erin is big.
+triple-6: Erin is green.
+triple-7: Erin is white.
+triple-8: Fiona is green.
+triple-9: Fiona is kind.
+triple-10: Fiona is quiet.
+triple-11: Fiona is red.
+triple-12: Fiona is white.
+
+Rules:
+rule-1: If Erin is big and Erin is red then Erin is kind.
+rule-2: All rough things are green.
+rule-3: If something is kind then it is green.
+rule-4: Quiet, green things are big.
+rule-5: If something is rough and green then it is red.
+rule-6: If something is green then it is rough.
+rule-7: If Erin is red then Erin is green.
+rule-8: All red, rough things are quiet.
+rule-9: If something is quiet and not red then it is not white.
+
+Question:
+Whether the following statement is True or False or Uncertain?
+statement: Anne is quiet.

@@ -1,0 +1,11 @@
+Let's break down the problem:
+
+1. First hour: Joanne collected 15 coins.
+2. Next two hours: She collected 35 coins each hour, so a total of \(2 \times 35\) coins.
+3. Fourth hour: She collected 50 coins but gave 15 to her coworker. So she's left with \(50 - 15\).
+
+We sum up the coins she collected over the four hours to get the total number of coins she has.
+
+Given the problem:
+
+Total coins after fourth hour = \(15 + 2 \times 35 + (50 - 15)\)

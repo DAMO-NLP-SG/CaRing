@@ -1,0 +1,2 @@
+triple-1 & rule-3 -> int-1: Anne is green.; int-1 & rule-6 -> int-2: Anne is rough.; int-1 & int-2 & rule-5 -> int-3: Anne is red.; int-2 & int-3 & rule-8 -> int-4: Anne is quiet.
+#### True

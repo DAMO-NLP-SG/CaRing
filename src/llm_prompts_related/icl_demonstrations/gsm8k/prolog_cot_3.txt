@@ -1,0 +1,7 @@
+To solve this problem using Prolog, we'll follow these steps:
+
+1. Calculate the total distance Jesse ran over the first four days.
+2. Calculate the total distance Mia ran over the first four days.
+3. Subtract the distances from the 30 miles they need to run to determine how much they each have left.
+4. Determine the average miles they have to run over the final three days.
+5. Find the average of their averages.

@@ -1,0 +1,11 @@
+To solve this problem, let's break it down:
+
+1. From the carwash, Hank donates \(90\% \times \$100\).
+2. From the bake sale, Hank donates \(75\% \times \$80\).
+3. From mowing lawns, Hank donates \(100\% \times \$50\).
+
+The total donation by Hank is the sum of the above three amounts.
+
+Given the problem:
+
+Total donated by Hank = \(0.9 \times 100 + 0.75 \times 80 + 1 \times 50\)

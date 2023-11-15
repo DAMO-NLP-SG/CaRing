@@ -1,0 +1,8 @@
+sent-1: Janice can type 6 sentences per minute.
+sent-2: Today at work, Janice continued working on a paper she started typing yesterday.
+sent-3: She typed for 20 minutes, took a break,
+sent-4: and typed 15 minutes longer.
+sent-5: She then had to erase 40 sentences she had typed incorrectly.
+sent-6: After a meeting, she typed for 18 minutes more.
+sent-7: In all, the paper had 536 sentences by the end of today.
+sent-8: How many sentences did she start with today?

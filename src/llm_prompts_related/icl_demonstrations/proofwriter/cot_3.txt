@@ -1,0 +1,2 @@
+triple-6 & rule-6 -> int-1: Erin is rough.
+#### False

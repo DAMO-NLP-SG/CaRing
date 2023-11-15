@@ -1,0 +1,7 @@
+interruptingcow==0.8
+jsonlines==3.1.0
+matplotlib==3.6.2
+networkx==2.6.3
+torch==2.0.1
+tqdm==4.64.1
+vllm==0.2.1.post1

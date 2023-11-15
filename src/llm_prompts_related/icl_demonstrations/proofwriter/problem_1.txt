@@ -1,0 +1,32 @@
+Triples: 
+triple-1: The cow eats the squirrel.
+triple-2: The cow eats the tiger.
+triple-3: The cow is cold.
+triple-4: The cow does not need the mouse.
+triple-5: The cow needs the squirrel.
+triple-6: The mouse chases the cow.
+triple-7: The mouse chases the squirrel.
+triple-8: The mouse does not chase the tiger.
+triple-9: The mouse eats the tiger.
+triple-10: The mouse is not big.
+triple-11: The squirrel eats the cow.
+triple-12: The squirrel is cold.
+triple-13: The squirrel is kind.
+triple-14: The squirrel does not need the mouse.
+triple-15: The tiger chases the mouse.
+triple-16: The tiger does not need the mouse.
+
+Rules: 
+rule-1: If something eats the cow then it is cold.
+rule-2: All red things are big.
+rule-3: If something needs the tiger and it chases the mouse then it chases the cow.
+rule-4: If something is big then it eats the cow.
+rule-5: If something eats the squirrel then the squirrel needs the tiger.
+rule-6: If something needs the tiger then the tiger is red.
+rule-7: If the cow is cold then the cow eats the squirrel.
+rule-8: If something needs the cow and it is not cold then it does not eat the tiger.
+rule-9: If something chases the tiger then it eats the tiger and the mouse needs the tiger.
+
+Question:
+Whether the following statement is True or False or Uncertain?
+statement: The mouse is not kind.

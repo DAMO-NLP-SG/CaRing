@@ -1,0 +1,16 @@
+Let's break down the problem:
+
+1. Jeremy played a three-letter word on a triple word score and earned thirty points.
+2. Before the score was tripled, the first and third letters were each valued at one point.
+3. We need to determine the value of the middle letter before the word score was tripled.
+
+Given the problem, we can create the following equation:
+
+\[ 3 \times (\text{first letter value} + \text{middle letter value} + \text{third letter value}) = 30 \]
+
+From the problem, we know:
+\[ \text{first letter value} = 1 \]
+\[ \text{third letter value} = 1 \]
+
+Plugging in these values, the equation becomes:
+\[ 3 \times (1 + \text{middle letter value} + 1) = 30 \]

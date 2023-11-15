@@ -1,0 +1,10 @@
+sent-1: GiGi took out a big bowl of mushrooms from the refrigerator.
+sent-2: She cut each mushroom into 4 pieces.
+sent-3: Her twins, Kenny and Karla sprinkled mushrooms on their pizzas and
+sent-4: baked them in the oven.
+sent-5: Kenny grabbed a handful and
+sent-6: sprinkled 38 mushroom pieces on his pizza.
+sent-7: Karla scooped them up with both hands and
+sent-8: sprinkled 42 mushroom pieces on her pizza.
+sent-9: On the cutting board, were 8 pieces of mushrooms remaining.
+sent-10: How many mushrooms did GiGi cut up at the beginning?

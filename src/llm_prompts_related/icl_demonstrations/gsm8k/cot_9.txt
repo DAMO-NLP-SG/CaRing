@@ -1,0 +1,2 @@
+sent2 & sent3 -> int1: From the carwash, Hank donates $100 * 0.90 = $90; sent4 & sent5 -> int2: From the bake sale, Hank donates $80 * 0.75 = $60; sent6 & sent7 -> int3: From mowing lawns, Hank donates $50 * 1.00 = $50; int1 & int2 & int3 & sent8 -> int4: Hank donates a total of $90 + $60 + $50 = $200; int4 & sent8 -> int5: The answer is 200;
+#### 200

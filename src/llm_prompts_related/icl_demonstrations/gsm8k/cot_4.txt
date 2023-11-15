@@ -1,0 +1,2 @@
+sent2 -> int1: Since the word score after being tripled was 30 points, then the word score before tripling was 30/3=10 points.; sent3 & sent4 -> int2: If before the word score was tripled, the first and third letters were each valued at one point apiece, then the value of the middle letter was 10-1-1=8 points.; int2 & sent3 & sent4 & sent5 -> int3: The answer is 8;
+#### 8

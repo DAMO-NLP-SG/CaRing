@@ -1,0 +1,2 @@
+sent4 -> int1: The bride wanted 50*.6=30 more guests than the husband; int1 & sent4 -> int2: So the bride wanted 50+30=80 guests; int2 & sent3 -> int3: So the guests cost 80*$500=$40000; int3 & sent2 & sent5 -> int4: So the total cost was $40000+$10,000=$50000; int4 & sent5 -> int5: The answer is 50000;
+#### 50000

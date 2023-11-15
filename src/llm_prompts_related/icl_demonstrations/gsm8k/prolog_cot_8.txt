@@ -1,0 +1,12 @@
+Let's break down the problem:
+
+1. The school band's goal: $150.
+2. From three families: $10 each, so \(3 \times 10 = $30\).
+3. From 15 families: $5 each, so \(15 \times 5 = $75\).
+4. Money collected so far: \(30 + 75 = $105\).
+
+The amount more they need to reach their goal is: \(150 - 105 = $45\).
+
+Given the problem:
+
+Amount needed to reach goal = \(150 - (3 \times 10 + 15 \times 5)\)

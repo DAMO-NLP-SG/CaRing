@@ -1,0 +1,2 @@
+sent2 & sent6 -> int1: Kenny used 38 / 4 = 9.5 mushrooms on his pizza.; sent2 & sent8 -> int2: Karla used 42 / 4 = 10.5 mushrooms on her pizza.; int1 & int2 -> int3: Together, the twins used 9.5 + 10.5 = 20 mushrooms.; sent2 & sent9 -> int4: There are 8 / 4 = 2 mushrooms left on the cutting board.; int3 & int4 & sent10 -> int5: GiGi cut up 20 + 2 = 22 mushrooms at the beginning.; int5 & sent10 -> int6: The answer is 22;
+#### 22

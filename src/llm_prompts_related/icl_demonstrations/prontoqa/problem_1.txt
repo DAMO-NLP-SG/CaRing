@@ -1,0 +1,23 @@
+Context:
+statement-1: Wumpuses are large.
+statement-2: Wumpuses are numpuses.
+statement-3: Every numpus is metallic.
+statement-4: Numpuses are yumpuses.
+statement-5: Every yumpus is bright.
+statement-6: Every yumpus is a jompus.
+statement-7: Jompuses are not bitter.
+statement-8: Jompuses are zumpuses.
+statement-9: Every zumpus is transparent.
+statement-10: Zumpuses are rompuses.
+statement-11: Each rompus is earthy.
+statement-12: Rompuses are impuses.
+statement-13: Each impus is kind.
+statement-14: Every impus is a dumpus.
+statement-15: Dumpuses are not hot.
+statement-16: Dumpuses are vumpuses.
+statement-17: Each tumpus is not transparent.
+statement-18: Wren is a wumpus.
+
+
+Question:
+Is the following statement true or false? Wren is transparent.

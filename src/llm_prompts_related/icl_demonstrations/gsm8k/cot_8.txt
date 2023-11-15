@@ -1,0 +1,2 @@
+sent3 -> int1: The school band earned $10/family * 3 families = $30 from three families.; sent4 -> int2: The school band earned $15/family * 5 families = $75 from 15 families.; int1 & int2 -> int3: The school band earned $30 + $75 = $105 total.; int3 & sent2 -> int4: The school band needs $150 - $105 = $45 more to reach their goal.; int4 & sent5 -> int5: The answer is 45;
+#### 45

@@ -1,0 +1,5 @@
+sent-1: The school band is having a car wash to raise money.
+sent-2: Their goal is to collect $150.
+sent-3: So far they have earned $10 each from three families and
+sent-4: $5 each from 15 families.
+sent-5: How much more money do they have to earn to reach their goal?

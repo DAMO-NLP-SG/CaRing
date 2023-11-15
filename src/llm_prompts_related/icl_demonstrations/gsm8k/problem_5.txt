@@ -1,0 +1,5 @@
+sent-1: Jack makes his own cold brew coffee.
+sent-2: He makes it in batches of 1.5 gallons.
+sent-3: He drinks 96 ounces of coffee every 2 days.
+sent-4: It takes 20 hours to make coffee.
+sent-5: How long does he spend making coffee over 24 days?

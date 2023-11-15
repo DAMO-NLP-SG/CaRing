@@ -1,0 +1,6 @@
+sent-1: Every hour Joanne has to collect the coins out of the fountain inside the mall.
+sent-2: During the first hour, she collected 15 coins.
+sent-3: For the next two hours,
+sent-4: she collected 35 coins from the fountain.
+sent-5: In the fourth hour, she collected 50 coins from the fountain but she gave 15 of them to her coworker so she could buy a soda.
+sent-6: How many coins did she have after the fourth hour?

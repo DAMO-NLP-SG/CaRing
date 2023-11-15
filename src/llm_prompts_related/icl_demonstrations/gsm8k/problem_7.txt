@@ -1,0 +1,5 @@
+sent-1: John is budgeting for his marriage.
+sent-2: The venue cost $10,000.
+sent-3: It cost $500 for each guest,
+sent-4: and John wants 50 guests while his wife wants 60% more than that.
+sent-5: How much would the wedding cost if John's wife gets her way?

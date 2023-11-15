@@ -1,0 +1,22 @@
+Context:
+statement-1: Tumpuses are kind.
+statement-2: Every tumpus is an impus.
+statement-3: Impuses are not dull.
+statement-4: Impuses are jompuses.
+statement-5: Jompuses are not large.
+statement-6: Jompuses are zumpuses.
+statement-7: Every zumpus is happy.
+statement-8: Zumpuses are wumpuses.
+statement-9: Every dumpus is not fruity.
+statement-10: Each wumpus is sweet.
+statement-11: Wumpuses are yumpuses.
+statement-12: Yumpuses are orange.
+statement-13: Every yumpus is a numpus.
+statement-14: Numpuses are transparent.
+statement-15: Each numpus is a vumpus.
+statement-16: Vumpuses are fruity.
+statement-17: Every vumpus is a rompus.
+statement-18: Fae is a zumpus.
+
+Question:
+Is the following statement true or false? Fae is not fruity.

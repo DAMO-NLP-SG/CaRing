@@ -1,0 +1,5 @@
+sent-1: Jeremy loves to play Scrabble.
+sent-2: He once played a three-letter word on a triple word score to earn thirty points.
+sent-3: If before the word score was tripled, the first and
+sent-4: third letters were each valued at one point apiece,
+sent-5: how much was the middle letter valued at before the word score was tripled?

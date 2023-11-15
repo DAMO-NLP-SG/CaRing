@@ -1,0 +1,2 @@
+sent2 -> int1: He makes it in batches of 1.5*128=192 ounces; sent3 -> int2: He drinks 96/2=48 ounces of coffee a day; int1 & int2 -> int3: So he drinks the coffee in 192/48=4 days; int3 & sent5 -> int4: So in 24 days he makes 24/4=6 batches; int4 & sent4 & sent5 -> int5: That means he spends 6*20=120 hours making coffee; int5 & sent5 -> int6: The answer is 120;
+#### 120

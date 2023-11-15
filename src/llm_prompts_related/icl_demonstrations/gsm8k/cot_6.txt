@@ -1,0 +1,2 @@
+sent2 -> int1: 15 coins collected in hour one; sent3 & sent4 -> int2: 35 coins collected in hour two; sent3 & sent4 -> int3: 35 coins collected in hour three; sent5 -> int4: 50 coins collected in hour four; int1 & int2 & int3 & int4 -> int5: Before giving her coworker some coins there were 15+35+35+50=135 coins; int5 & sent5 -> int6: The number of coins after given 15 to her coworker is 135-15=120; int6 & sent6 -> int7: The answer is 120;
+#### 120

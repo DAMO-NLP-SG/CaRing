@@ -1,0 +1,6 @@
+sent-1: Jesse and Mia are competing in a week long race.
+sent-2: They have one week to run 30 miles.
+sent-3: On the first three days Jesse averages (2/3) of a mile.
+sent-4: On day four she runs 10 miles.
+sent-5: Mia averages 3 miles a day over the first 4 days.
+sent-6: What is the average of their average that they have to run over the final three days?

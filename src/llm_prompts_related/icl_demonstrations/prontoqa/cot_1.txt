@@ -1,0 +1,2 @@
+statement-18 & statement-2  -> int-1: Wren is a numpus.; int-1 & statement-4 -> int-2: Wren is a yumpus.; int-2 & statement-6 -> int-3: Wren is a jompus.; int-3 & statement-8 -> int-4: Wren is a zumpus.; int-4 & statement-9: Wren is transparent.
+#### True

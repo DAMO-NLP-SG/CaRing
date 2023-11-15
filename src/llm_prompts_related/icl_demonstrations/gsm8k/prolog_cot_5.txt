@@ -1,0 +1,14 @@
+To solve this problem, we'll follow these steps:
+
+1. Convert the batch size from gallons to ounces (since consumption rate is given in ounces).
+2. Calculate how much coffee Jack consumes over 24 days.
+3. Calculate how many batches Jack needs to make over 24 days.
+4. Multiply the number of batches by the time it takes to make one batch to get the total time Jack spends making coffee over 24 days.
+
+Given the information:
+
+1. There are 128 ounces in a gallon.
+2. Jack's batch size = \(1.5 \times 128\)
+3. Consumption over 24 days = \( \frac{96 \times 24}{2} \)
+4. Batches needed = \( \frac{\text{consumption over 24 days}}{\text{batch size}} \)
+5. Total time spent = batches needed \(\times 20\)

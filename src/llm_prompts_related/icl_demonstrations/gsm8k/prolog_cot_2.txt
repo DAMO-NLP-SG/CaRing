@@ -1,0 +1,11 @@
+To solve the problem, we'll follow these steps:
+
+1. Calculate how many sentences Janice typed today.
+2. Subtract the sentences she had to erase.
+3. Subtract the number of sentences typed today from the total to determine how many sentences she started with.
+
+Given the problem, we can use the following calculations:
+
+1. Sentences typed today = \(6 \times (20 + 15 + 18)\)
+2. Correct sentences typed today = Sentences typed today - 40
+3. Sentences at the start = Total sentences at the end of today - Correct sentences typed today
